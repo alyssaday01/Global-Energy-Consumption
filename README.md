@@ -25,8 +25,8 @@ Using the **Our World in Data (OWID)** global energy dataset, this project:
 - **Carbon Intensity vs. Energy Efficiency (2020)**
 
 ## 🗂️ Project Files
-- `energy_transition.sql` – SQL queries for data extraction
-- `EnergyDashboard.pbix` – Power BI dashboard
+- `clean_energy_trends_analysis.sql` – SQL queries for data extraction
+- `Clean_Energy_Analysis.pbix` – Power BI dashboard
 - `notion_summary.pdf` – Documentation and key takeaways
 
 ## ✅ Summary
