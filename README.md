@@ -19,7 +19,7 @@ Using the **Our World in Data (OWID)** global energy dataset, this project:
 - Carbon intensity shifts across nations
 - The relationship between energy efficiency and carbon emissions
 
-## 📈 Key Visualizations\
+## 📈 Key Visualizations
 - **Fossil vs. Renewable Energy Share Over Time** (w/ slicer by country)
 - **Top 10 Countries with Largest Carbon Intensity Shifts**
 - **Carbon Intensity vs. Energy Efficiency (2020)**
